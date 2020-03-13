@@ -1,7 +1,6 @@
 #ifndef GRAPHICS_H
 #define GRAPHICS_H
 
-//forward declaring allows us to use pointers to SDL utils
 struct SDL_Window;
 struct SDL_Renderer;
 
